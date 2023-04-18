@@ -5,14 +5,14 @@ VALUES (001, "Sales"),
        (004, "Legal");
 
 INSERT INTO role (id, title, salary, department_id)
-VALUES (011, "Sales Lead", 100000, 001),
-       (021, "Lead Engineer", 150000, 002),
-       (041, "Legal Team Lead", 250000, 004),
-       (031, "Account Manager", 160000, 003),
-       (012, "Salesperson", 80000, 001),
-       (022, "Software Engineer", 120000, 002),
-       (032, "Accountant", 125000, 003),
-       (042, "Lawyer", 190000, 004);
+VALUES (100, "Sales Lead", 100000, 001),
+       (101, "Lead Engineer", 150000, 002),
+       (102, "Legal Team Lead", 250000, 004),
+       (103, "Account Manager", 160000, 003),
+       (104, "Salesperson", 80000, 001),
+       (105, "Software Engineer", 120000, 002),
+       (106, "Accountant", 125000, 003),
+       (107, "Lawyer", 190000, 004);
 
 INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
 VALUES (10011, "Michael", "Scott", 011, NULL),
