@@ -7,5 +7,7 @@
  each command is finished. This is an issue I was not able to solve in time. 
  
 # Video Demo
+
+You may alternatively view the video from this Google Drive link -- https://drive.google.com/file/d/1NI5OZ0ry33qSL3jynpVEY4ME5HZgjtEI/view?usp=share_link
  
 [Untitled_ Apr 19, 2023 1_34 AM.webm](https://user-images.githubusercontent.com/121985800/232976864-9b35c259-42e6-463f-8733-a8b7819407d7.webm)
